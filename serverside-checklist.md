@@ -24,12 +24,20 @@ This is a checklist for serverside of the Web App.
 ## Logging
 
 * [ ] My application produces log output to rotated files
+  * Streams with different log levels are separated from each other
+  
 * [ ] My logs are aggregated to a log analysing service
 
 
 ## Monitoring
 
 * [ ] I have configured the alerts for abnormal activity
+
+  * Application restart events
+  * Error rate threshold reached
+  * Server resources are soon to be exhausted (CPU, memory, IO > 90%)
+  * HTTP requests timeouts
+  * HTTP responses with 500 status codes
 
 
 ## Metrics
