@@ -2,7 +2,12 @@
 
 This is a checklist for serverside of the Web App.
 
+## Resiliency 
 
+* [ ] My application can retain reasonable functionality in isolation
+* [ ] My application can recover from being under heavy load
+* [ ] My application can reestablish all lost connections
+ 
 ## Load balancing
 
 * [ ] My project can run on multiple CPUs
@@ -23,6 +28,7 @@ This is a checklist for serverside of the Web App.
 
 ## Logging
 
+* [ ] My application logs all errors (even "swallowed")
 * [ ] My application produces log output to rotated files
   * Streams with different log levels are separated from each other
   
@@ -38,6 +44,8 @@ This is a checklist for serverside of the Web App.
   * Server resources are soon to be exhausted (CPU, memory, IO > 90%)
   * HTTP requests timeouts
   * HTTP responses with 500 status codes
+
+* [ ] I have health checks for all parts of my system
 
 
 ## Metrics
