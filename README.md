@@ -5,4 +5,6 @@ Here is a list of things you want to address before hitting the road:
 
 * [Serverside Checklist](serverside-checklist.md)
 * [SPA Checklist](spa-checklist.md)
+
+----
 * [Useful Sources](sources.md)
