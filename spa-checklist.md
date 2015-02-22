@@ -5,6 +5,7 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 ## Deployment
 
  - [ ] My app is served from CDN with correct cache headers
+ - [ ] My app static resources are gzipped
 
 ## Versioning
 

@@ -12,7 +12,7 @@ This is a checklist for serverside of the Web App.
 
 * [ ] My project can run on multiple CPUs
 * [ ] My project can run behind the load balancer
-* [ ] I can add a new node 
+* [ ] I can add a new node without system downtime
 
 ## Transparent deployment
   
@@ -57,8 +57,17 @@ This is a checklist for serverside of the Web App.
   * Duration of business-logic operations
 
 
+## High Availability
+
+* [ ] I can run my services in different independent Data Centers
+
+
 ## Testing
   
 * [ ] I have performed stress tests for my application
 * [ ] I have performed network partitioning tests for my application
 
+
+## Backuping
+
+* [ ] I can restore all my data from backups
