@@ -71,3 +71,9 @@ This is a checklist for serverside of the Web App.
 ## Backuping
 
 * [ ] I can restore all my data from backups
+
+
+## Security
+
+* [ ] I have audited my system against OWASP Top 10 Vulnerabilities
+* [ ] I use TLS for all sensitive endpoints
