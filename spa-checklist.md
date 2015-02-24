@@ -15,3 +15,11 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 ## Testing
 
  - [ ] My app is passing Page Speed tests with high grades
+
+## Debugging
+
+ - [ ] minified JavaScript files contain URL for source maps
+
+## Tracking
+
+ - [ ] My app gathers metrics about usage behaviour
