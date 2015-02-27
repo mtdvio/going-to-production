@@ -13,6 +13,7 @@ This is a checklist for browser-based Web App **without the backend** or with a 
  - [ ] My app can load it's assets in parallel (css, images and scripts)
  - [ ] My app uses icon sprites
  - [ ] My app does not hit [browser HTTP requests limit per host](http://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)
+ - [ ] My app loads all well-known javascript libraries from CDN
 
 ## Versioning
 
