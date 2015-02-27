@@ -4,8 +4,15 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Deployment
 
- - [ ] My app is served from CDN with correct cache headers
+ - [ ] My app is served from CDN or cookie-less subdomain
+ - [ ] My app is server with forever cache headers for static assets
  - [ ] My app static resources are gzipped
+
+## Loading optimization
+
+ - [ ] My app can load it's assets in parallel (css, images and scripts)
+ - [ ] My app uses icon sprites
+ - [ ] My app does not hit [browser HTTP requests limit per host](http://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)
 
 ## Versioning
 
@@ -14,4 +21,9 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Testing
 
- - [ ] My app is passing Page Speed tests with high grades
+ - [ ] My app is passing performance tests with high grades
+   - [PageSpeed](https://developers.google.com/speed/pagespeed/) 
+   - [YSlow](http://yslow.org/)
+   - Chrome Dev Tools Audit
+
+ - [ ] My app does not have memory leaks
