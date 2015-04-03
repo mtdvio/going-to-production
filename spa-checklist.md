@@ -28,3 +28,11 @@ This is a checklist for browser-based Web App **without the backend** or with a 
    - Chrome Dev Tools Audit
 
  - [ ] My app does not have memory leaks
+
+## Debugging
+
+ - [ ] minified JavaScript files contain URL for source maps
+
+## Tracking
+
+ - [ ] My app gathers metrics about usage behaviour
