@@ -2,6 +2,11 @@
 
 This is a checklist for serverside of the Web App.
 
+## Legal
+
+ - [ ] Licences of my application's 3rd-party dependencies are no violated
+ - [ ] My application does not violate cryptography policies and laws  
+
 ## Resiliency 
 
 * [ ] My application can retain reasonable functionality in isolation
