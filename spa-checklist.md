@@ -4,7 +4,7 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Legal
 
- - [ ] Licences of my app's 3rd-party dependencies are no violated
+ - [ ] Licences of my app's 3rd-party dependencies are not violated
  - [ ] My app does not violate cryptography policies and laws  
 
 ## Deployment

@@ -4,7 +4,7 @@ This is a checklist for serverside of the Web App.
 
 ## Legal
 
- - [ ] Licences of my application's 3rd-party dependencies are no violated
+ - [ ] Licences of my application's 3rd-party dependencies are not violated
  - [ ] My application does not violate cryptography policies and laws  
 
 ## Resiliency 
