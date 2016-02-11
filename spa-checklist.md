@@ -2,6 +2,11 @@
 
 This is a checklist for browser-based Web App **without the backend** or with a 3rd-party backend.
 
+## Legal
+
+ - [ ] Licences of my app's 3rd-party dependencies are not violated
+ - [ ] My app does not violate cryptography policies and laws  
+
 ## Deployment
 
  - [ ] My app is served from CDN or cookie-less subdomain
