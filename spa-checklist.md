@@ -12,9 +12,9 @@ This is a checklist for browser-based Web App **without the backend** or with a 
  
   - [ ] My app is accessible
 
-    - Colors and contrast are color-blind friendly OR there is a possiblity to switch to high-contrast mode
-    - My app is screenreader-friendly
-    - My app has keyboard navigation
+    - [ ] Colors and contrast are color-blind friendly OR there is a possiblity to switch to high-contrast mode
+    - [ ] My app is screenreader-friendly
+    - [ ] My app has keyboard navigation
 
 ## Deployment
 
