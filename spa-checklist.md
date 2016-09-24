@@ -11,7 +11,6 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 ## Accessibility
  
   - [ ] My app is accessible
-
     - [ ] Colors and contrast are color-blind friendly OR there is a possiblity to switch to high-contrast modeg
     - [ ] My app is screenreader-friendly
     - [ ] My app has keyboard navigation
@@ -35,14 +34,11 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 
 ## Testing
-
- - [ ] My app is passing performance tests with high grades
- 
-   - [PageSpeed](https://developers.google.com/speed/pagespeed/) 
-   - [YSlow](http://yslow.org/)
-   - Chrome Dev Tools Audit
-
- - [ ] My app does not have memory leaks
+  - [ ] My app does not have memory leaks
+  - [ ] My app is passing performance tests with high grades
+    - [ ] [PageSpeed](https://developers.google.com/speed/pagespeed/) 
+    - [ ] [YSlow](http://yslow.org/)
+    - [ ] Chrome Dev Tools Audit
 
 ## Debugging
 
