@@ -12,6 +12,7 @@ This is a checklist for serverside of the Web App.
 * [ ] My application can retain reasonable functionality in isolation
 * [ ] My application can recover from being under heavy load
 * [ ] My application can reestablish all lost connections
+* [ ] My application can not cause Cascading Failures to propagate through the system
  
 ## Load balancing
 
