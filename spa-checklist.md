@@ -10,8 +10,8 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Accessibility
  
-  - [ ] My app is accessible
-    - [ ] Colors and contrast are color-blind friendly OR there is a possiblity to switch to high-contrast modeg
+ - [ ] My app is accessible
+    - [ ] Colors and contrast are color-blind friendly OR there is a possiblity to switch to high-contrast mode
     - [ ] My app is screenreader-friendly
     - [ ] My app has keyboard navigation
 
@@ -30,20 +30,34 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Versioning
 
- - [ ] My app has a cache-busting implemented 
+ - [ ] My app has a assets cache-busting implemented
+
+## Assets
+
+ - [ ] Have a 404-page
+ - [ ] Have a maintenance page
+ - [ ] Images support HDPI screens (Retina, etc)
 
 
 ## Testing
-  - [ ] My app does not have memory leaks
-  - [ ] My app is passing performance tests with high grades
+
+ - [ ] My app does not have memory leaks
+ - [ ] My app is passing performance tests with high grades
     - [ ] [PageSpeed](https://developers.google.com/speed/pagespeed/) 
     - [ ] [YSlow](http://yslow.org/)
     - [ ] Chrome Dev Tools Audit
 
 ## Debugging
 
- - [ ] minified JavaScript files contain URL for source maps
+ - [ ] Minified JavaScript files contain URL for source maps
+ - [ ] Thrown exceptions are handled and passed to storage ([Sentry](https://sentry.io/), [Track.js](https://trackjs.com/), etc)
+ - [ ] Error storage process sourcemaped files
 
 ## Tracking
 
  - [ ] My app gathers metrics about usage behaviour
+
+## Security
+ - [ ] I have audited my system against:
+    - [ ] OWASP Top 10 Vulnerabilities
+    - [ ] [Observatory](https://observatory.mozilla.org/)
