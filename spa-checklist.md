@@ -30,12 +30,12 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Versioning
 
- - [ ] My app has a assets cache-busting implemented
+ - [ ] My app has a cache-busting implemented (assets, object cache etc.)
 
 ## Assets
 
  - [ ] Have a 404-page
- - [ ] Have a maintenance page
+ - [ ] Have a [maintenance page](https://www.smashingmagazine.com/2009/06/effective-maintenance-pages-examples-and-best-practices/)
  - [ ] Images support HDPI screens (Retina, etc)
 
 
