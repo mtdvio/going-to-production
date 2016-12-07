@@ -46,6 +46,7 @@ This is a checklist for browser-based Web App **without the backend** or with a 
     - [ ] [PageSpeed](https://developers.google.com/speed/pagespeed/) 
     - [ ] [YSlow](http://yslow.org/)
     - [ ] Chrome Dev Tools Audit
+ - [ ] My app is loading in less than 3 seconds
 
 ## Debugging
 
@@ -59,5 +60,5 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
 ## Security
  - [ ] I have audited my system against:
-    - [ ] OWASP Top 10 Vulnerabilities
+    - [ ] [OWASP Top 10](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) Vulnerabilities
     - [ ] [Observatory](https://observatory.mozilla.org/)
