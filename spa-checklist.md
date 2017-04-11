@@ -62,3 +62,4 @@ This is a checklist for browser-based Web App **without the backend** or with a 
  - [ ] I have audited my system against:
     - [ ] [OWASP Top 10](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) Vulnerabilities
     - [ ] [Observatory](https://observatory.mozilla.org/)
+    - [ ] [securityheaders.io](https://securityheaders.io/)
