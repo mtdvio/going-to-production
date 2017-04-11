@@ -10,3 +10,4 @@
 ## Frontend
 
 5. [Deploying Javascript Applications](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
+6. [Busting Frame Busting: a Study of Clickjacking Vulnerabilities on Popular Sites](http://seclab.stanford.edu/websec/framebusting/framebust.pdf)
