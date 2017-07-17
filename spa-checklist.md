@@ -18,7 +18,7 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 ## Deployment
 
  - [ ] My app is served from CDN or cookie-less subdomain
- - [ ] My app is server with forever cache headers for static assets
+ - [ ] My app is served with forever cache headers for static assets
  - [ ] My app static resources are gzipped
 
 ## Loading optimization
