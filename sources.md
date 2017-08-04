@@ -7,6 +7,7 @@
 1. [OWASP Top 10 Vulnerabilities Report](http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202013.pdf)
 1. [AWS Security Best Practices](http://media.amazonwebservices.com/AWS_Security_Best_Practices.pdf)
 1. [Hardening Your HTTP Security Headers](https://www.keycdn.com/blog/http-security-headers/)
+1. [Monitoring 101](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)
 
 ## Frontend
 
