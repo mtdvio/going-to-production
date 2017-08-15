@@ -8,6 +8,7 @@
 1. [AWS Security Best Practices](http://media.amazonwebservices.com/AWS_Security_Best_Practices.pdf)
 1. [Hardening Your HTTP Security Headers](https://www.keycdn.com/blog/http-security-headers/)
 1. [Monitoring 101](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)
+1. [Making CSP Great Again](https://speakerdeck.com/mikispag/making-csp-great-again-michele-spagnuolo-and-lukas-weichselbaum)
 
 ## Frontend
 
