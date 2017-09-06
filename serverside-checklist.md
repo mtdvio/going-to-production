@@ -83,7 +83,7 @@ This is a checklist for serverside of the Web App.
 ## Security
 
 * [ ] I have audited my system against OWASP Top 10 Vulnerabilities
-* [ ] I use TLS for all sensitive endpoints
+* [ ] I use TLS for all endpoints
 * [ ] I have added relevant security headers to app HTTP endpoints
 
   * `X-Frame-Options`
