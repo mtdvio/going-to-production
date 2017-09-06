@@ -10,6 +10,8 @@
 1. [Monitoring 101](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)
 1. [Making CSP Great Again](https://speakerdeck.com/mikispag/making-csp-great-again-michele-spagnuolo-and-lukas-weichselbaum)
 1. [HTTPS Everywhere FAQ](https://www.eff.org/https-everywhere/faq)
+1. [Blue-Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+1. [Using Blue-Green Deployment to Reduce Downtime and Risk](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
 
 ## Frontend
 
