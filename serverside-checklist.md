@@ -92,4 +92,3 @@ This is a checklist for serverside of the Web App.
   * `X-XSS-Protection`
   * `Strict-Transport-Security`
   * `Public-Key-Pins`
-  * `X-Content-Type-Options`
